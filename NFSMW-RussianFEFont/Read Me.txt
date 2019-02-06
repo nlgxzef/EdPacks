@@ -1,0 +1,32 @@
+EdPack: NFS Most Wanted - Russian FrontEnd Font
+Compatible With: v1.0.0.504 or newer.
+------------------------------------------------------------------------------------------------------------
+Description:
+
+Replaces FrontEnd font texture and position info with the ones from official Russian release.
+Use this if your FrontEnd font appears weird after using Ed on a Russian copy of the game.
+------------------------------------------------------------------------------------------------------------
+Installation and usage:
+
+1) Copy the contents of the archive into the folder that you installed Ed.
+2) Confirm any replacement prompts.
+3) Run Ed, select your game directory and click Apply.
+4) Now you should be able to see Russian font in your game copy.
+------------------------------------------------------------------------------------------------------------
+Changelog: (+ Addition, * Change, ! Attention, - Deletion)
+
+Who needs change logs for extracted official files?
+------------------------------------------------------------------------------------------------------------
+Credits:
+
+EdPacked by:
+- nlgzrgn
+
+Thanks to:
+- EA and MWInside for resources.
+- Xanvier for XNFSTPKTool and XNFS-Chunky.
+- And anyone I forgot to write here...
+------------------------------------------------------------------------------------------------------------
+
+See ya!
+©2019 nlgzrgn @ ExOpts Team - No rights reserved. ;)
