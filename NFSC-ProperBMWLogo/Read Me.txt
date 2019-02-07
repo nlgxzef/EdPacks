@@ -1,0 +1,32 @@
+﻿EdPack: NFS Carbon - Proper BMW M3 GTR Logo
+Compatible With: v1.0.0.504 or newer.
+------------------------------------------------------------------------------------------------------------
+Description:
+
+Replaces M3 GTR Logo with the one from NFS Most Wanted.
+Use this if you want to get the actual M3 GTR Logo on car select screen.
+------------------------------------------------------------------------------------------------------------
+Installation and usage:
+
+1) Copy the contents of the archive into the folder that you installed Ed.
+2) Confirm any replacement prompts.
+3) Run Ed, select your game directory and click Apply.
+4) Done!
+------------------------------------------------------------------------------------------------------------
+Changelog: (+ Addition, * Change, ! Attention, - Deletion)
+
+I don't think so.
+------------------------------------------------------------------------------------------------------------
+Credits:
+
+EdPacked by:
+- nlgzrgn
+
+Thanks to:
+- EA for resources.
+- Xanvier for XNFSTPKTool.
+- And anyone I forgot to write here...
+------------------------------------------------------------------------------------------------------------
+
+See ya!
+©2019 nlgzrgn @ ExOpts Team - No rights reserved. ;)
